@@ -16,16 +16,16 @@ Every project in this directory must pass these 4 criteria:
 ## 📂 The Professional Templates
 The target for these templates is local service businesses that need a "Digital Storefront".
 
-- ⚖️ **Lawyer & Legal Firm** – [Demo](https://livedm.netlify.app/03-real-world-projects/lawyer_landing_page/index.html)
-- 🏋️‍♂️ **Gym & Fitness** (GymRajat) – [Demo](https://livedm.netlify.app/03-real-world-projects/gym_landing_page/index.html)
-- 💇‍♀️ **Salon & Parlour** – [Demo](https://livedm.netlify.app/03-real-world-projects/salon_parlour/index.html)
-- 🏠 **Real Estate** – [Demo](https://livedm.netlify.app/03-real-world-projects/real_estate/index.html)
-- ☕ **Cafe & Restaurant** – [Demo](https://livedm.netlify.app/03-real-world-projects/cafe_restaurant/index.html)
-- 🚗 **Car Service & Repair** – [Demo](https://livedm.netlify.app/03-real-world-projects/car_service/index.html)
-- 📚 **Coaching & Education** – [Demo](https://livedm.netlify.app/03-real-world-projects/coaching_center/index.html)
-- 💊 **Medical & Pharmacy** – [Demo](https://livedm.netlify.app/03-real-world-projects/medical_store/index.html)
-- 📸 **Photography Portfolio** – [Demo](https://livedm.netlify.app/03-real-world-projects/photographer/index.html)
-- 🎊 **Event Planning** – [Demo](https://livedm.netlify.app/03-real-world-projects/event_planner/index.html)
+- ⚖️ **Lawyer & Legal Firm** – [Demo](lawyer_landing_page/index.html)
+- 🏋️‍♂️ **Gym & Fitness** (GymRajat) – [Demo](gym_landing_page/index.html)
+- 💇‍♀️ **Salon & Parlour** – [Demo](salon_parlour/index.html)
+- 🏠 **Real Estate** – [Demo](real_estate/index.html)
+- ☕ **Cafe & Restaurant** – [Demo](cafe_restaurant/index.html)
+- 🚗 **Car Service & Repair** – [Demo](car_service/index.html)
+- 📚 **Coaching & Education** – [Demo](coaching_center/index.html)
+- 💊 **Medical & Pharmacy** – [Demo](medical_store/index.html)
+- 📸 **Photography Portfolio** – [Demo](photographer/index.html)
+- 🎊 **Event Planning** – [Demo](event_planner/index.html)
 
 ---
 
